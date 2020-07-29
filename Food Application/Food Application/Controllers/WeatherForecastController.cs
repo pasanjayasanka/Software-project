@@ -13,7 +13,10 @@ namespace Food_Application.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly",  "Game", "Game", "Game", "Game", "Game", "Game", "Game"
+            // edited by tharindu
+            //flskdflsfssdffss
+
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
