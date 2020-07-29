@@ -15,8 +15,8 @@ namespace Food_Application.Controllers
         {
             "Freezing", "Bracing", "Chilly",  "Game", "Game", "Game", "Game", "Game", "Game", "Game"
             // edited by tharindu
-            //flskdflsfssdffss
-
+            
+            
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
