@@ -13,9 +13,9 @@ namespace Food_Application.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly",  "Game", "Game", "Game", "Game", "Game", "Game", "Game"
-            // edited by tharindu
-            //flskdflsfssdffss
+            "Fake", "Bracing", "Chilly",  "Game", "Game", "Game", "Game", "Game", "Game", "Game"
+           
+            
 
         };
 
