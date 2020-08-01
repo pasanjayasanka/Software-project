@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -18,3 +19,25 @@ D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\staticweba
 D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.dll
 D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.pdb
 D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.genruntimeconfig.cache
+=======
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.exe
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.deps.json
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.runtimeconfig.json
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.runtimeconfig.dev.json
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.pdb
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csprojAssemblyReference.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.AssemblyInfoInputs.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.AssemblyInfo.cs
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csproj.CoreCompileInputs.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.RazorTargetAssemblyInfo.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\staticwebassets\Food Application.StaticWebAssets.Manifest.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\staticwebassets\Food Application.StaticWebAssets.xml
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.pdb
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.genruntimeconfig.cache
+>>>>>>> 9bfcfae3be5979e703697acafb75e5f93a71fc98
