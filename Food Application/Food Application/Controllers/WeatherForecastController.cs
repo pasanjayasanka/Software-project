@@ -15,7 +15,8 @@ namespace Food_Application.Controllers
         {
             "Freezing", "Bracing", "Chilly",  "Game", "Game", "Game", "Game", "Game", "Game", "Game"
             // edited by tharindu
-            //  edit by pasan
+            // edited by TNJ
+            //commented
             
         };
 
