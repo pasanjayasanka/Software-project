@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.exe
-D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.deps.json
-D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.runtimeconfig.json
-D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.runtimeconfig.dev.json
-D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.dll
-D:\Food App\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.pdb
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csprojAssemblyReference.cache
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.AssemblyInfoInputs.cache
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.AssemblyInfo.cs
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csproj.CoreCompileInputs.cache
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.MvcApplicationPartsAssemblyInfo.cache
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.RazorTargetAssemblyInfo.cache
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\staticwebassets\Food Application.StaticWebAssets.Manifest.cache
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\staticwebassets\Food Application.StaticWebAssets.xml
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.dll
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.pdb
-D:\Food App\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.genruntimeconfig.cache
-=======
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -29,35 +7,148 @@ C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Applicat
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.runtimeconfig.dev.json
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.dll
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.pdb
-C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csprojAssemblyReference.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.AssemblyInfoInputs.cache
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.AssemblyInfo.cs
-C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csproj.CoreCompileInputs.cache
-C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.RazorTargetAssemblyInfo.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csproj.CopyComplete
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\staticwebassets\Food Application.StaticWebAssets.Manifest.cache
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\staticwebassets\Food Application.StaticWebAssets.xml
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.dll
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.pdb
 C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.genruntimeconfig.cache
->>>>>>> 9bfcfae3be5979e703697acafb75e5f93a71fc98
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.exe
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.deps.json
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.runtimeconfig.json
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.runtimeconfig.dev.json
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.dll
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Food Application.pdb
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csprojAssemblyReference.cache
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.AssemblyInfoInputs.cache
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.AssemblyInfo.cs
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csproj.CoreCompileInputs.cache
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.RazorTargetAssemblyInfo.cache
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\staticwebassets\Food Application.StaticWebAssets.Manifest.cache
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\staticwebassets\Food Application.StaticWebAssets.xml
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.dll
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.pdb
-C:\Users\Chathu\Source\Repos\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.genruntimeconfig.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csprojAssemblyReference.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.csproj.CoreCompileInputs.cache
+C:\Users\Indika\Documents\GitHub\Software-project\Food Application\Food Application\obj\Debug\netcoreapp3.1\Food Application.MvcApplicationPartsAssemblyInfo.cache

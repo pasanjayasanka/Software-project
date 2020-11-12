@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Food App\\Food Application\\Food Application\\Food Application.csproj": {}
+    "C:\\Users\\Indika\\Documents\\GitHub\\Software-project\\Food Application\\Food Application\\Food Application.csproj": {}
   },
   "projects": {
-    "D:\\Food App\\Food Application\\Food Application\\Food Application.csproj": {
+    "C:\\Users\\Indika\\Documents\\GitHub\\Software-project\\Food Application\\Food Application\\Food Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Food App\\Food Application\\Food Application\\Food Application.csproj",
+        "projectUniqueName": "C:\\Users\\Indika\\Documents\\GitHub\\Software-project\\Food Application\\Food Application\\Food Application.csproj",
         "projectName": "Food Application",
-        "projectPath": "D:\\Food App\\Food Application\\Food Application\\Food Application.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\Food App\\Food Application\\Food Application\\obj\\",
+        "projectPath": "C:\\Users\\Indika\\Documents\\GitHub\\Software-project\\Food Application\\Food Application\\Food Application.csproj",
+        "packagesPath": "C:\\Users\\Indika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Indika\\Documents\\GitHub\\Software-project\\Food Application\\Food Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Indika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -40,6 +41,36 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
