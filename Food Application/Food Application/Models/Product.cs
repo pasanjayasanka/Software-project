@@ -7,7 +7,7 @@ namespace Food_Application.Models
 {
     public class Product
     {
-        [key]
+        
         public int ProductId { get; set; }
         public string ProductName { get; set; }
         public int SupplierId { get; set; }

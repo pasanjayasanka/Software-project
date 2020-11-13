@@ -7,7 +7,7 @@ namespace Food_Application.Models
 {
     public class Admin
     {
-        [key]
+        
         public int AdminId { get; set; }
         public string AdminFName { get; set; }
         public string AdminLName { get; set; }
