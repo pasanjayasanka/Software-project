@@ -21,5 +21,8 @@ namespace Food_Application.Models
         public DbSet<Order> OrderTable { get; set; }
         public DbSet<OrderDetails> OrderDetailsTable { get; set; }
         public DbSet<Product> ProductTable { get; set; }
+        public DbSet<Cart> CartTable { get; set; }
+        public DbSet<Category> CategoryTable { get; set; }
+
     }
 }
